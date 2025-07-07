@@ -1,0 +1,8 @@
+ package XandO;
+
+public class Main {
+    public static void main(String[] args) {
+        XandOGame game = new XandOGame();
+        game.drawGrid();
+    }
+}
